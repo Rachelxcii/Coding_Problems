@@ -1,2 +1,2 @@
-# Programming_exercises
+# Solutions to **Coding Problems**
 Here I share some of my codes which solve coding problems on LeetCode, HackerRank, CodeSignal...
